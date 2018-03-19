@@ -1,0 +1,34 @@
+.slider .slides li .caption{
+	top: 40%;
+    color: darkslategray;
+    text-shadow: 1px 1px 5px white;
+}
+
+.textslider{
+    color: white;
+}
+
+.espacamentoSuperior{
+    margin-top: 95vh;
+}
+
+.btn, .btn-large{
+    background-color: cornflowerblue;
+}
+
+.equipe{
+    padding-bottom: 25px;
+}
+.chip{
+    display: block;
+    margin-bottom: 5px;
+	
+}
+
+.equipe .servico, .localizacao, .contato{
+    padding-bottom: 25px;
+}
+
+.equipe .servico, .localizacao, .contato, .rodape{
+    opacity: 0;
+}
